@@ -28,6 +28,10 @@ export default {
 <style lang="scss" scoped>
 .quote {
   cursor: pointer;
+  p {
+    font-family: 'Vibur', cursive;
+    font-size: 32px;
+  }
   &:hover {
     background-color: #1E87F0;
     p {
