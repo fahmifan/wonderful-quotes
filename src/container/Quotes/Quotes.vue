@@ -1,6 +1,8 @@
 <template>
-  <div class="uk-padding-small">
-    <h2>Quote Added</h2>
+  <main class="uk-container uk-padding-small">
+    <header>
+      <h1>Wonderful Quotes</h1>
+    </header>
     <div v-show="isQuoteMax" class="uk-alert-danger" uk-alert>
       <a class="uk-alert-close" uk-close></a>
       <p>Max quotes are reached, please delete some quote before add new one!</p>
@@ -38,7 +40,7 @@
           :quote="quote"></quote-item>
         </div>
       </div>
-  </div>
+  </main>
 </template>
 
 <script>
