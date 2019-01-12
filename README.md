@@ -1,4 +1,6 @@
-# wonderful-quotes
+# Wonderful Quotes
+
+![Demo](https://raw.githubusercontent.com/miun173/photos/master/wonderfull-quotes/demo-01.gif)
 
 > Wonderful Quotes App
 
