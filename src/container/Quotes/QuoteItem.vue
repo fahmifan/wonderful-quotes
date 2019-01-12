@@ -41,6 +41,10 @@ export default {
     .icon {
       fill: #fff;
       color: #fff;
+
+      &:hover {
+        opacity: 0.7;
+      }
     }
   }
 }
